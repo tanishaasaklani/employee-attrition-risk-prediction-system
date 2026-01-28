@@ -36,5 +36,5 @@ The project uses the **IBM HR Analytics Employee Attrition & Performance** datas
     ```
 ---
 ### 📬 Contact
-Created by **Tanishaa Saklani** - MCA AI & DS Student.
+Created by **Tanisha Saklani** - MCA AI & DS Student.
 Open to feedback!
